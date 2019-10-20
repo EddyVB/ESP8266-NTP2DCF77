@@ -7,7 +7,7 @@ The ESP8266 connects to your wifi and receives the time from a Network Time Serv
 
 ## Getting Started
 The files NTP2DCF77.ino and settings.h + libraries are needed to compile this program. Links to libraries are commented in source code.
-Also 2 resistors and a antenna is needed. A ferrite antenna, or even a simple open wire can be sufficient.
+Also 2 resistors and an antenna is needed. A ferrite antenna, or even a simple open wire can be sufficient.
 
 ### Prerequisites
   WARNING: Check if it is allowed in your country to generate this (very low level) RF signal. Keep this signal as low as possible, in the cm range from your clock.
